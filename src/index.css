@@ -1,0 +1,22 @@
+body,
+html {
+  padding: 0px;
+  margin: 0px;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+  overflow-y: scroll;
+  transition: all .1s linear;
+  position: relative;
+  text-decoration: none;
+  text-transform: inherit;
+  -webkit-user-select: none;
+  user-select: none;
+  font-family: 'Roboto', sans-serif;
+}
+:root{
+    --bg-color: rgb(19, 20, 24);
+    --main-color: rgb(251, 205, 41);
+    --bg-color1:rgb(38, 39, 42);
+}
